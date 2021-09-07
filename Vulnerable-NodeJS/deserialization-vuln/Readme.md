@@ -15,7 +15,7 @@ Use the serlialize.js or serialize-rs.js to generate the payload
 make it self invoking by adding () at the end
 
 
-## To run using ubuntu docker to simulate the reverse shell:
+## Run in Docker:
 
 docker build . -t ereda/deserialize
 
