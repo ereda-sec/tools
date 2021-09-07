@@ -2,7 +2,7 @@
 
 ## PoC Steps:
 
-Clone this folder https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fereda-sec%2Ftools%2Ftree%2Fmain%2FVulnerable-NodeJS%2Fdeserialization-vuln
+Download this folder https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fereda-sec%2Ftools%2Ftree%2Fmain%2FVulnerable-NodeJS%2Fdeserialization-vuln
 
 npm install required modules
 
