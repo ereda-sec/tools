@@ -1,0 +1,17 @@
+{
+  "name": "deserialization-vuln",
+  "version": "1.0.0",
+  "description": "Vulnerable NodeJS PoC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "ereda",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "escape-html": "^1.0.3",
+    "express": "^4.17.1",
+    "node-serialize": "^0.0.4"
+  }
+}
